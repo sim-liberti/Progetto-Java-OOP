@@ -1,0 +1,20 @@
+[] - Controller
+    [] - creaTest
+    [] - creaQuizAperto
+    [] - creaQuizMultiplo
+    [] - creaUtente
+    [] - calcolaVoto
+[] - GUI
+    [] - HomeDocente
+    [] - HomeStudente
+    [] - CreaTest
+    [] - SvolgiTest
+    [] - CorreggiTest
+[] - Model
+    [] - Test
+    [] - Quiz (astratta)
+    [] - QuizAperto
+    [] - QuizMultiplo
+    [] - Utente (astratta)
+    [] - Docente
+    [] - Studente
