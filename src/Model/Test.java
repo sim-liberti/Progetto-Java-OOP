@@ -48,7 +48,7 @@ public class Test {
     public String getDataCreazione() { return dataCreazione;      };
     public String getDataConsegna()  { return dataConsegna;       };
     public String getDataCorrezione(){ return dataCorrezione;     };
-    public int getVotoMax()          { return votoMax; };
+    public int getVotoMax()          { return votoMax;            };
     public int getNumeroDomande()    { return numeroDomande;      };
     public Quiz getQuiz(int pos)     { return listaQuiz.get(pos); };
 }
