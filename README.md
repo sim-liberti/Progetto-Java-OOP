@@ -1,16 +1,11 @@
-# Progetto OOP <32/2><2>
+# Object-Oriented Programming Project <32/2><2>
 
-### Descrizione
-Applicazione per la creazione e lo svolgimento di test online. Ogni test viene creato da un docente che inserirà un nome unico per ogni test, incluso il numero di domande. Successivamente verranno inserite le domande che potranno essere a risposta multipla o risposta aperta.
-Lo studente potrà effettuare il login e svolgere i test dall'elenco dei test disponibili e, una volta effettuata la correzione da parte del docente, potrà visualizzare i risultati.
-Il docente assegnerà un voto solo alle domande a risposta aperta, con un voto compreso tra 0 e un voto massimo calcolato con 30 diviso il numero delle domande totali.
+### Description
+This is an application for creating and managing online tests. Each test is created by a teacher, who will assign a unique name to each test, including the number of questions. Next, the questions will be entered, and they can either be multiple-choice or open-ended. Students can log in and take the tests from the list of available tests. Once the teacher has graded the tests, students will be able to view their results. The teacher will assign grades only to the open-ended questions, with a score ranging from 0 to a maximum score calculated by dividing 30 by the total number of questions.
 
-### Nota
-Per via della mancanza di un database, per utilizzare appieno l'applicazione, le finestre non andranno chiuse normalmente ma premendo l'apposito pulsante "esci" presente nelle dashboard sia per il docente che per lo studente.
+### Note
+Due to the lack of a database, in order to fully use the application, the windows should not be closed normally but by pressing the dedicated "exit" button located in both the teacher's and student's dashboards.
 
-#### Ambiente di sviluppo utilizzato
-VisualStudio Code
-
-#### Plugin utilizzati
-- Eclipse new java project: 
-    - simulazione di un nuovo progetto in java per la gestione automatica di classpath e directory
+### Built with
+- Visual Studio Code
+- Eclipse new Java project plugin
